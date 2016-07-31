@@ -1,6 +1,5 @@
 class HomesController < ApplicationController
 	def index
-		puts "Pranjal testing"
-		@size = 3
+		@size = 4
 	end
 end
